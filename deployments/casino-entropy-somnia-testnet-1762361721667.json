@@ -1,0 +1,15 @@
+{
+  "network": "somnia-testnet",
+  "chainId": "50312",
+  "contractAddress": "0xA7c0Cf20DD950EE1C07b758aD8B4B0fd3888595b",
+  "pythEntropyAddress": "0x36825bf3fbdf5a29e2d5148bfe7dcf7b5639e320",
+  "pythProviderAddress": "0x36825bf3fbdf5a29e2d5148bfe7dcf7b5639e320",
+  "treasuryAddress": "0x1FF5BC3AAe7aB75D79fE98339dFfB09b52ADd1FC",
+  "deployer": "0x1FF5BC3AAe7aB75D79fE98339dFfB09b52ADd1FC",
+  "deploymentTime": "2025-11-05T16:55:21.667Z",
+  "transactionHash": "0x92292ea43bf7a79645ed14b78ef55d3b52477cf525e66ef33a5a4d488c62c8bc",
+  "explorer": {
+    "testnet": "https://shannon-explorer.somnia.network/address/0xA7c0Cf20DD950EE1C07b758aD8B4B0fd3888595b",
+    "mainnet": "https://explorer.somnia.network/address/0xA7c0Cf20DD950EE1C07b758aD8B4B0fd3888595b"
+  }
+}

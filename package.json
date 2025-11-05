@@ -31,7 +31,9 @@
     "deploy:somnia:testnet": "npx hardhat run scripts/deploy-somnia.js --network somnia-testnet",
     "deploy:somnia:mainnet": "npx hardhat run scripts/deploy-somnia.js --network somnia-mainnet",
     "deploy:monad": "npx hardhat run scripts/deploy-casino.js --network monad-testnet",
-    "test:monad": "node scripts/test-monad-integration.js"
+    "test:monad": "node scripts/test-monad-integration.js",
+    "deploy:vercel": "vercel --prod",
+    "deploy:vercel:preview": "vercel"
   },
   "dependencies": {
     "@babel/runtime": "^7.24.0",

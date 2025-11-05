@@ -66,7 +66,7 @@ export default function Footer() {
           <div className="p-[1px] bg-gradient-to-r from-red-magic/40 to-blue-magic/40 rounded-lg mb-6 hover:from-red-magic hover:to-blue-magic transition-all duration-300">
             <div className="bg-[#120010] rounded-lg p-4">
               <p className="text-white/80 text-sm leading-relaxed">
-                APT-Casino is your ultimate destination for Somnia Network gaming. Experience transparency, fairness,
+                VegasVault is your ultimate destination for Somnia Network gaming. Experience transparency, fairness,
                 and excitement powered by Somnia Network blockchain technology.
               </p>
             </div>
@@ -244,7 +244,7 @@ export default function Footer() {
         
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-sm text-white/50">
-            © {new Date().getFullYear()} APT-Casino. All rights reserved.
+            © {new Date().getFullYear()} VegasVault. All rights reserved.
           </div>
           
           <div className="text-xs text-white/40 flex gap-4">
@@ -260,7 +260,7 @@ export default function Footer() {
         
         {/* Compliance Statement */}
         <div className="text-xs text-white/30 text-center mt-6">
-          APT-Casino encourages responsible gaming. Please play responsibly and only with funds you can afford to lose.
+          VegasVault encourages responsible gaming. Please play responsibly and only with funds you can afford to lose.
           Gambling can be addictive. If you need help or advice, please visit <a href="/responsible-gaming" className="underline hover:text-white/50 transition-colors">Responsible Gaming</a>.
         </div>
       </div>

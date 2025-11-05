@@ -76,7 +76,7 @@ export default function Bank() {
         },
         {
           symbol: "APTC",
-          name: "APT Casino Token",
+          name: "VegasVault Token",
           iconColor: "#34C759",
           address: "0x...",
           apr: "8.2%",
@@ -120,7 +120,7 @@ export default function Bank() {
           },
           {
             symbol: "APTC",
-            name: "APT Casino Token",
+            name: "VegasVault Token",
             iconColor: "#34C759",
             address: "0x...",
             apr: "8.2%",
@@ -204,7 +204,7 @@ export default function Bank() {
         
         <div className="mb-10 text-center">
           <HeaderText
-            header="APT Casino Bank" 
+            header="VegasVault Bank" 
             description="Manage your assets, deposit collateral, and borrow tokens to play your favorite casino games"
           />
         </div>
@@ -343,7 +343,7 @@ export default function Bank() {
           
           {activeTab === 'history' && (
             <div>
-              <p className="text-white/70 mb-6">Your transaction history in the APT Casino Bank. All transactions are recorded on the blockchain for transparency.</p>
+              <p className="text-white/70 mb-6">Your transaction history in the VegasVault Bank. All transactions are recorded on the blockchain for transparency.</p>
               
               {transactions.length > 0 ? (
                 <div className="overflow-x-auto">
@@ -409,7 +409,7 @@ export default function Bank() {
                 <h3 className="text-lg font-medium">Earn Interest</h3>
               </div>
               <p className="text-white/70 mb-4">
-                Deposit your tokens to earn competitive interest rates. APT Casino Bank offers some of the highest APYs in DeFi.
+                Deposit your tokens to earn competitive interest rates. VegasVault Bank offers some of the highest APYs in DeFi.
               </p>
               <ul className="space-y-2 mb-4">
                 <li className="flex justify-between">

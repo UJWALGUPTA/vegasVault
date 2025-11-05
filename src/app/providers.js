@@ -113,7 +113,7 @@ export default function Providers({ children }) {
   
   try {
     config = getDefaultConfig({
-      appName: 'APT Casino Somnia',
+      appName: 'VegasVault',
       projectId: '226b43b703188d269fb70d02c107c34e',
       chains: [somniaTestnet],
       ssr: true,
@@ -147,7 +147,7 @@ export default function Providers({ children }) {
         ],
       },
     ], {
-      appName: 'APT Casino Somnia',
+      appName: 'VegasVault',
       projectId: '226b43b703188d269fb70d02c107c34e',
     });
 

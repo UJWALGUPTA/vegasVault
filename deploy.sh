@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# APT Casino Monad Deployment Script
+# VegasVault Monad Deployment Script
 # This script deploys the entire casino application to Monad testnet and Vercel
 
 set -e
@@ -212,7 +212,7 @@ run_tests() {
 
 # Function to show help
 show_help() {
-    echo "APT Casino Deployment Script"
+    echo "VegasVault Deployment Script"
     echo ""
     echo "Usage: $0 [OPTIONS]"
     echo ""
@@ -279,7 +279,7 @@ fi
 
 # Main deployment function
 main() {
-    echo "🚀 APT Casino Deployment Script"
+    echo "🚀 VegasVault Deployment Script"
     echo "Network: $NETWORK"
     echo "Deploy Contracts: $DEPLOY_CONTRACTS"
     echo "Deploy Frontend: $DEPLOY_FRONTEND"

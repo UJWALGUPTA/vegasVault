@@ -1,7 +1,7 @@
 # Pyth Entropy Randomness Logic Documentation
 
 ## Overview
-This document explains the complete Pyth Entropy randomness implementation in the APT Casino project. The system uses Pyth Network's entropy service to generate verifiable random numbers for casino games.
+This document explains the complete Pyth Entropy randomness implementation in the VegasVault project. The system uses Pyth Network's entropy service to generate verifiable random numbers for casino games.
 
 ## Architecture
 

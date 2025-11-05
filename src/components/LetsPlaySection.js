@@ -38,13 +38,13 @@ export default function LetsPlaySection() {
         <div className="font-display flex text-white flex-col text-center items-center gap-6 md:gap-8">
           {/* Main heading with gradient text */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-magic to-blue-magic">
-            APT-Casino
+            VegasVault
           </h1>
           
           {/* Description with improved readability */}
           <h2 className="text-white/90 text-base sm:text-lg max-w-3xl leading-relaxed">
             Join us in the realm of gaming where every click opens up a world of adventure 
-            and discovery. APT-Casino isn&apos;t just a destination; it&apos;s a gateway to boundless 
+            and discovery. VegasVault isn&apos;t just a destination; it&apos;s a gateway to boundless 
             entertainment with provably fair games and exciting rewards.
           </h2>
           

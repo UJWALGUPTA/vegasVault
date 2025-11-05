@@ -1,4 +1,4 @@
-# APT Casino Monad - Mermaid Architecture Diagrams
+# VegasVault Monad - Mermaid Architecture Diagrams
 
 ## 🏗️ System Architecture Overview
 
@@ -604,7 +604,7 @@ journey
       Cash Out: 4: User
 ```
 
-This comprehensive set of Mermaid diagrams provides visual representations of all major architectural components and flows in the APT Casino application, making it easier to understand the complex interactions between different system layers. The diagrams now accurately reflect the current Pyth Entropy integration for random number generation instead of Pyth Entropy.
+This comprehensive set of Mermaid diagrams provides visual representations of all major architectural components and flows in the VegasVault application, making it easier to understand the complex interactions between different system layers. The diagrams now accurately reflect the current Pyth Entropy integration for random number generation instead of Pyth Entropy.
 ## 🎯 
 Smart Account Gaming Benefits
 

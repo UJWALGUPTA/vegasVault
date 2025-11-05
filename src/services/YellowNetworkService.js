@@ -7,7 +7,7 @@ import { YELLOW_ARBITRUM_CONFIG, switchToArbitrumSepolia } from '../config/arbit
 
 /**
  * Yellow Network Service
- * Handles state channel integration with Yellow Network for APT Casino
+ * Handles state channel integration with Yellow Network for VegasVault
  */
 class YellowNetworkService {
   constructor() {
@@ -321,7 +321,7 @@ class YellowNetworkService {
       // Create application session for the game (handle SDK method name differences)
       let session;
       const payload = {
-        appId: `apt-casino-${gameType.toLowerCase()}`,
+        appId: `vegas-vault-${gameType.toLowerCase()}`,
         params: {
           gameType,
           config: gameConfig,

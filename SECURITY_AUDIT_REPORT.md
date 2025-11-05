@@ -1,6 +1,6 @@
 # Security Audit Report
 
-## APT Casino Monad Codebase
+## VegasVault Codebase
 
 **Date:** January 2025
 **Severity Levels:** 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low

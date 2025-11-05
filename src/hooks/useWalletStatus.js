@@ -148,7 +148,7 @@ export function WalletStatusProvider({ children }) {
     console.log('Dev Wallet:', devWallet);
     console.log('=== LOCAL STORAGE ===');
     console.log('Dev wallet state:', localStorage.getItem('dev-wallet-state'));
-    console.log('Wagmi storage:', localStorage.getItem('aptcasino.wallet'));
+    console.log('Wagmi storage:', localStorage.getItem('vegasvault.wallet'));
     console.log('=== WINDOW ETHEREUM ===');
     console.log('Window ethereum exists:', !!window.ethereum);
     console.log('Window ethereum connected:', window.ethereum?.isConnected?.());

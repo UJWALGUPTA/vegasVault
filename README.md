@@ -1,8 +1,8 @@
-# APT Casino - Somnia Network
+# VegasVault - Somnia Network
 
 A decentralized casino platform built on Somnia Network with Pyth Entropy for provably fair gaming and MetaMask Smart Accounts integration.
 
-## 🎮 The Story Behind APT Casino
+## 🎮 The Story Behind VegasVault
 
 A few days ago, I was exploring transactions on Etherscan when I saw an advertisement for a popular centralized casino platform offering a 200% bonus on first deposits. I deposited 120 USDT and received 360 USDT in total balance in their custodial wallet.
 
@@ -10,7 +10,7 @@ When I started playing, I discovered I could only bet $1 per game and couldn't i
 
 In a desperate attempt to recover my funds, I played different games all night—roulette, mines, spin wheel—and lost everything.
 
-This frustrating experience inspired APT Casino: a combination of GameFi, AI, and DeFi where users can enjoy casino games in a safe, secure, and transparent environment that doesn't scam its users.
+This frustrating experience inspired VegasVault: a combination of GameFi, AI, and DeFi where users can enjoy casino games in a safe, secure, and transparent environment that doesn't scam its users.
 
 ## 🎯 The Problem
 
@@ -26,7 +26,7 @@ The traditional online gambling industry suffers from several issues:
 
 ## 💡 Our Solution
 
-APT Casino addresses these problems by offering:
+VegasVault addresses these problems by offering:
 
 - **Provably Fair Gaming**: Powered by Pyth Entropy
 
@@ -109,7 +109,7 @@ Add Somnia Mainnet to MetaMask:
 
 ## 🔷 Smart Account Features
 
-APT Casino leverages MetaMask Smart Accounts for an enhanced gaming experience:
+VegasVault leverages MetaMask Smart Accounts for an enhanced gaming experience:
 
 ### Delegation Benefits:
 - **Auto-Betting Strategies**: Delegate betting permissions to strategy contracts

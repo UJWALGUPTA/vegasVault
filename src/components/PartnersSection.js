@@ -74,7 +74,7 @@ const PartnersSection = () => {
             <div className="mt-10 text-center">
               <div className="p-4 bg-gradient-to-r from-red-magic/20 to-blue-magic/20 rounded-lg inline-block">
                 <h3 className="text-white font-medium mb-2">Interested in Partnering with Us?</h3>
-                <p className="text-white/70 text-sm mb-4">Join the APT Casino ecosystem and reach our growing player base.</p>
+                <p className="text-white/70 text-sm mb-4">Join the VegasVault ecosystem and reach our growing player base.</p>
                 <button className="bg-gradient-to-r from-red-magic to-blue-magic text-white font-medium py-2 px-6 rounded-md">
                   Contact Us
                 </button>

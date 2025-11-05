@@ -1,6 +1,6 @@
 # Deployment Guide for Somnia Network
 
-This guide explains how to deploy the APT Casino smart contracts to Somnia Network.
+This guide explains how to deploy the VegasVault smart contracts to Somnia Network.
 
 ## Prerequisites
 

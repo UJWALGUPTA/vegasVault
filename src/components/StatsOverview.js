@@ -32,7 +32,7 @@ const StatsOverview = () => {
             <div className="w-2 h-2 rounded-full bg-gradient-to-r from-red-magic to-blue-magic mr-2"></div>
             <h3 className="text-white/70 font-display text-sm uppercase tracking-wider">Platform Statistics</h3>
           </div>
-          <p className="text-white/50 text-sm">Real-time overview of the APT Casino ecosystem</p>
+          <p className="text-white/50 text-sm">Real-time overview of the VegasVault ecosystem</p>
         </div>
         
         <div className="flex flex-wrap gap-8 justify-center md:justify-end">

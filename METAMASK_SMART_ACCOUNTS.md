@@ -13,7 +13,7 @@ MetaMask Smart Accounts (based on EIP-4337 Account Abstraction) enable you to us
 - **Social Recovery**: Account recovery mechanisms
 - **Custom Logic**: Add custom business logic to your account
 
-## 🚀 Usage in APT Casino
+## 🚀 Usage in VegasVault
 
 ### 1. Smart Account Detection
 Check if you're using a Smart Account in the application:

@@ -1,6 +1,6 @@
-# Vercel Deployment Guide for APT Casino Somnia
+# Vercel Deployment Guide for VegasVault
 
-This guide will help you deploy the APT Casino application to Vercel.
+This guide will help you deploy the VegasVault application to Vercel.
 
 ## Prerequisites
 

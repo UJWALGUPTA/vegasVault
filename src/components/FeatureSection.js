@@ -45,7 +45,7 @@ export default function FeatureSection() {
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="flex items-center mb-12 justify-center">
           <div className="w-1 h-6 bg-gradient-to-r from-red-magic to-blue-magic rounded-full mr-3"></div>
-          <h2 className="text-2xl font-display font-bold text-white">Key Features of APT-Casino</h2>
+          <h2 className="text-2xl font-display font-bold text-white">Key Features of VegasVault</h2>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center mb-16">
@@ -66,7 +66,7 @@ export default function FeatureSection() {
                 <div className="w-full h-full flex items-center justify-center">
                   <div className="text-center px-6">
                     <div className="text-5xl mb-4">🎰</div>
-                    <h3 className="text-xl font-medium text-white mb-2">APT Casino</h3>
+                    <h3 className="text-xl font-medium text-white mb-2">VegasVault</h3>
                     <p className="text-white/70">Experience the future of decentralized gaming</p>
                   </div>
                 </div>
@@ -77,7 +77,7 @@ export default function FeatureSection() {
           {/* Comparison section */}
           <div className="lg:col-span-7 p-[1px] bg-gradient-to-r from-red-magic to-blue-magic rounded-xl">
             <div className="bg-[#1A0015] rounded-xl p-6 md:p-8">
-              <h3 className="text-white/70 text-sm uppercase tracking-wider mb-3">Traditional vs APT-Casino</h3>
+              <h3 className="text-white/70 text-sm uppercase tracking-wider mb-3">Traditional vs VegasVault</h3>
               <h4 className="text-white text-2xl font-display font-medium mb-6">A New Era of Fair Gaming</h4>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
@@ -104,7 +104,7 @@ export default function FeatureSection() {
                 </div>
                 
                 <div className="bg-[#250020] rounded-lg p-4 border-l-2 border-blue-400/50">
-                  <h5 className="text-blue-magic font-medium mb-2">APT-Casino</h5>
+                  <h5 className="text-blue-magic font-medium mb-2">VegasVault</h5>
                   <ul className="space-y-2 text-white/70 text-sm">
                     <li className="flex items-start">
                       <span className="text-green-400 mr-2">✓</span>
@@ -127,7 +127,7 @@ export default function FeatureSection() {
               </div>
               
               <p className="text-white/80 text-sm">
-                APT-Casino leverages Somnia Network Blockchain to provide a transparent, provably fair gaming
+                VegasVault leverages Somnia Network Blockchain to provide a transparent, provably fair gaming
                 experience with DeFi integration, allowing players to earn passive income through staking.
               </p>
             </div>

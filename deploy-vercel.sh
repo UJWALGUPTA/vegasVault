@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# APT Casino Somnia - Vercel Deployment Script
+# VegasVault - Vercel Deployment Script
 # This script helps deploy the application to Vercel
 
 set -e
@@ -12,7 +12,7 @@ YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
-echo -e "${BLUE}🚀 APT Casino Somnia - Vercel Deployment${NC}"
+echo -e "${BLUE}🚀 VegasVault - Vercel Deployment${NC}"
 echo ""
 
 # Check if Vercel CLI is installed

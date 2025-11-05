@@ -10,7 +10,7 @@ const TestimonialsSection = () => {
       name: 'Michael T.',
       avatar: '/images/avatars/avatar1.png',
       rating: 5,
-              text: 'APT Casino offers the most transparent gaming experience I\'ve found on Somnia Network. The provably fair system gives me confidence that games are legitimate, and I\'ve already won over 500 STT tokens!',
+              text: 'VegasVault offers the most transparent gaming experience I\'ve found on Somnia Network. The provably fair system gives me confidence that games are legitimate, and I\'ve already won over 500 STT tokens!',
       game: 'Roulette',
       amount: 520
     },
